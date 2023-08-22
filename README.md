@@ -2,7 +2,7 @@
 Course FI1101 Class 04 Year 2023 Semester 1
 
 FI1101 Elementary Physics IA \
-url https://edunex.itb.ac.id/courses/52940/preview
+url https://edunex.itb.ac.id/courses/52883/preview
 
 1. `21.08 - 25.08` **Point mass kinematics 1** \
   [Elementary Physics 1A overview](https://dudung.github.io/lecture-notes/0008/) \
